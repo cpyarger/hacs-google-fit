@@ -11,8 +11,8 @@ from homeassistant.helpers.event import track_time_change
 from homeassistant.util.dt import utc_from_timestamp
 
 REQUIREMENTS = [
-    'google-api-python-client==1.6.4',
-    'oauth2client==4.0.0',
+    'google-api-python-client==2.4.4.0',
+    'oauth2client==4.1.3',
     'httplib2'
 ]
 
